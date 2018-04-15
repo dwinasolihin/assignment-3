@@ -1,1 +1,76 @@
 /* first-stylesheet.css */
+body {
+  background-color: lightyellow;
+}
+
+/* top navigation bar-------------------------------*/
+.top-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightyellow;
+}
+
+.top-nav li {
+  float: right;
+}
+
+
+.top-nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/*----------------------------------------------*/
+
+/* bottom navigation bar-------------------------------*/
+.bottom-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightyellow;
+}
+
+.bottom-nav li {
+  float: left;
+}
+
+
+.bottom-nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/*----------------------------------------------*/
+
+/*navigation bar */
+p {
+  text-align: justify;
+}
+
+center {
+  color: palevioletred;
+}
+
+table {
+  width: 75rem;
+  border: 1px;
+  color: solid black;
+}
+
+th {
+  background-color: lightgoldenrodyellow;
+}
+
+.center {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
