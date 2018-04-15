@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lightyellow;
+  background-color: lightgoldenrodyellow;
 }
 
 .top-nav li {
@@ -32,7 +32,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lightyellow;
+  background-color: lightgoldenrodyellow;
 }
 
 .bottom-nav li {
@@ -60,17 +60,24 @@ center {
 
 table {
   width: 75rem;
-  border: 1px;
-  color: solid black;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th {
   background-color: lightgoldenrodyellow;
+  border: 1px solid black;
 }
 
-.center {
+td {
+  border: 1px solid black;
+}
+
+h2 {
   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: lightcoral;
 }
