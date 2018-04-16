@@ -49,13 +49,8 @@ body {
 }
 /*----------------------------------------------*/
 
-/*navigation bar */
 p {
   text-align: justify;
-}
-
-center {
-  color: palevioletred;
 }
 
 table {
@@ -74,6 +69,7 @@ td {
   border: 1px solid black;
 }
 
+/*To center the title of the table*/
 h2 {
   display: block;
   margin-left: auto;
