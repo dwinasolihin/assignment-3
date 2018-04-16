@@ -39,7 +39,6 @@ body {
   float: left;
 }
 
-
 .bottom-nav li a {
   display: block;
   color: black;
@@ -49,13 +48,8 @@ body {
 }
 /*----------------------------------------------*/
 
-/*navigation bar */
 p {
   text-align: justify;
-}
-
-center {
-  color: palevioletred;
 }
 
 table {
